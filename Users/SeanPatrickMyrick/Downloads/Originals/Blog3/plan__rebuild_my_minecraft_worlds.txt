@@ -1,0 +1,11 @@
+Plan: rebuild my minecraft worlds
+Plan: rebuild my minecraft worlds
+Made by Sean P. Myrick
+ Yes, I know Minecraft isn't as popular as it once was, but it was a huge part of my childhood up until the day that I lost all my progress. I don't know what happened, my account was unable to sign in, and the launcher had errors. Keep in mind, at the time I was still using Minecraft 1.8, waiting for 1.9 to come out, a pretty long time ago.
+ When it crashed, I was in shock. I didn't think too much of it. Every time I tried to go near it again, I had issues. Lately, as of March 2019, I am really getting into it again, almost 3 full years later. I am determined to not give up now. I have the worlds still in memory (in my brain) and I am considering remaking all of the worlds.
+ There are a few requirements first:
+ ՠWait for Windows 8 to go out of support in 2025 (I thought it was already dead years ago until I looked it up today.)
+ ՠObtain a copy of Minecraft 1.8
+ ՠGet better virtual machine knowledge and support (shared folders, prevent corruption from no usage (my machines randomly got corrupted one day and I don't know why) learn how to export to other machines)
+ I really hope I can do this. It might take me a very long time to do this, as I don't have as much free time anymore. It would be really nice to have everything back again! Thanks to RTGame for the videos that have peaked my interest in trying again.
+Sean Patrick Myrick on March 23rd 2019
